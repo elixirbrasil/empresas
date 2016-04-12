@@ -3,10 +3,10 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 
 ## Lista de Empresas
 
-* [Xerpa](https://xerpa.com.br)
+* [Xerpa (São Paulo/SP)](https://xerpa.com.br)
 * [Empresa de exemplo](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
 
-### Xerpa
+### Xerpa (São Paulo/SP)
 ![Xerpa](data/xerpa-logo.png)
 
 A Xerpa construiu todo o backend usando Elixir, entrando em produção em
