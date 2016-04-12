@@ -23,7 +23,7 @@ por ambos.
 
 
 
-### Empresa de exemplo (Estado/UF)
+### Empresa de exemplo (Cidade/UF)
 ![Super exemplo](https://raw.githubusercontent.com/elixirbrasil/empresas/master/data/empresa-exemplo-logo.jpg)
 
 **[Nome da Empresa](http://google.com/)**
