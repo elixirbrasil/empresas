@@ -4,7 +4,7 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 ## Lista de Empresas
 
 * [Xerpa (São Paulo/SP)](https://xerpa.com.br)
-* [Empresa de exemplo](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
+* [Empresa de exemplo (Cidade/UF)](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
 
 ### Xerpa (São Paulo/SP) [![Foo](data/linkedin.png)](http://https://www.linkedin.com/company/xerpa)
 ![Xerpa](data/xerpa-logo.png)
@@ -23,9 +23,9 @@ por ambos.
 
 
 
-### Empresa de exemplo
+### Empresa de exemplo (Estado/UF)
 ![Super exemplo](https://raw.githubusercontent.com/elixirbrasil/empresas/master/data/empresa-exemplo-logo.jpg)
 
 **[Nome da Empresa](http://google.com/)**
 
-Nós da Empresa de Exemplo usamos Elixir por ser uma linguagem exemplar e desde que começamos a usar já nos economizou `2 bilhões` de reais por mês só em conta de energia (contando com os programadores que demitimos).
+Nós da Empresa de Exemplo usamos Elixir por ser uma linguagem excelente e desde que começamos a usar já nos economizou `2 bilhões` de reais por mês só em conta de energia.
