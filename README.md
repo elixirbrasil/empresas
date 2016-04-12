@@ -3,7 +3,24 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 
 ## Lista de Empresas
 
+* [Xerpa](https://xerpa.com.br)
 * [Empresa de exemplo](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
+
+### Xerpa
+![Xerpa](data/xerpa-logo.png)
+
+A Xerpa construiu todo o backend usando Elixir, entrando em produção em
+outubro/2015.
+
+A Xerpa é construida "100%" em linguagens funcionais (Elixir, Clojure e um teco
+de Haskell), e temos um time já com uma boa experiência nesse meio. Quando
+iniciamos o projeto, Elixir era novidade para todos do time. Foi surpreendente a
+velocidade com que ficamos "confortáveis" com a linguagem. *Everything feels right*
+
+Dito isso, estamos extremamente satisfeitos com o design da linguagem, com a
+performance do framework Phoenix e com a produtividade e "felicidade" oferecidos
+por ambos.
+
 
 
 ### Empresa de exemplo
