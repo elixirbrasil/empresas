@@ -6,6 +6,7 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 * [Xerpa (São Paulo/SP)](https://xerpa.com.br)
 * [Umanni (São Paulo/SP)](http://umanni.com.br/)
 * [Globosat (Rio de Janeiro/RJ)](http://canaisglobosat.globo.com/)
+* [Podium (São Paulo/SP)](https://github.com/elixirbrasil/empresas#podium)
 * [Empresa de exemplo (Cidade/UF)](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
 
 _______
@@ -54,6 +55,17 @@ Na Globosat cada programa é cuidadosamente criado para atender as diversas áre
 Começamos com Elixir em Dez/2016, usando `Phoenix Channels` para fornecer o conteúdo do aplicativo CombatePlay em tempo real.
 
 ______
+
+
+### Podium (São Paulo/SP)
+![Podium](https://sponsors.elixirforum.com/images/sponsors/large/podium@2x.png)
+
+**[Podium](https://www.podium.com/)**
+
+Podium is an Interaction Management™ platform that enables 30,000+ businesses with a local presence to communicate more effectively with their customers. Podium is the largest, fastest-growing Elixir shop in the world, and we have run Elixir code in production since 2016. As one of Y Combinator's highest-valued companies, we've received investment from Google Ventures, Accel, and other firms. We're constantly looking for passionate Elixir developers to help us change the way business happens locally. Visit our [engineering blog](https://medium.com/podium-engineering) and [Twitter](https://twitter.com/podium_eng?utm_source=elixirbrasilgithub) for more.
+
+______
+
 
 ### Empresa de exemplo (Cidade/UF)
 ![Super exemplo](https://raw.githubusercontent.com/elixirbrasil/empresas/master/data/empresa-exemplo-logo.jpg)
