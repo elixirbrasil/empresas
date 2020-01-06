@@ -7,11 +7,12 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 * [Umanni (São Paulo/SP)](http://umanni.com.br/)
 * [Globosat (Rio de Janeiro/RJ)](http://canaisglobosat.globo.com/)
 * [Podium (São Paulo/SP)](https://github.com/elixirbrasil/empresas#podium)
+* [Trybe (Belo Horizonte/MG e São Paulo/SP)](https://www.betrybe.com/)
 * [Empresa de exemplo (Cidade/UF)](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
 
 _______
 
-### Xerpa (São Paulo/SP) [![Foo](data/linkedin.png)](http://www.linkedin.com/company/xerpa)
+### Xerpa (São Paulo/SP) [![LinkedIn](data/linkedin.png)](http://www.linkedin.com/company/xerpa)
 ![Xerpa](data/xerpa-logo.png)
 
 A Xerpa construiu todo o backend usando Elixir, entrando em produção em
@@ -41,7 +42,7 @@ Como já trabalhavamos com idiomas funcionais sempre que possível no Ruby e ain
 
 ______
 
-### Globosat (Rio de Janeiro/RJ) [![Foo](data/linkedin.png)](https://br.linkedin.com/company/globosat)
+### Globosat (Rio de Janeiro/RJ) [![LinkedIn](data/linkedin.png)](https://br.linkedin.com/company/globosat)
 ![Globosat](data/globosat-logo.png)
 
 **[Globosat](http://google.com/)**
@@ -66,6 +67,20 @@ Podium is an Interaction Management™ platform that enables 30,000+ businesses 
 
 ______
 
+### Trybe (Belo Horizonte/BH e São Paulo/SP) [![LinkedIn](data/linkedin.png)](https://www.linkedin.com/school/betrybe/)
+![Trybe](data/trybe-logo.png)
+
+**[Trybe](https://www.betrybe.com/)**
+
+A Trybe é uma escola do futuro que foi fundada com o propósito de gerar oportunidades significativas para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia.
+
+Assumindo um compromisso genuíno com as pessoas, na Trybe elas só começam a pagar quando conseguirem um bom trabalho.
+
+Para garantir esse sucesso, investimos em nossos estudantes com as melhores práticas de ensino online e offline, aliando metodologia baseada em projetos, vivência completa do ambiente de trabalho e currículo desenhado em parceria com os melhores profissionais de tecnologia do mundo e as empresas mais queridas para se trabalhar. Além disso, trabalhamos ativamente desde o início do programa para preparará-los e conectá-los com nossas empresas parceiras.
+
+Na Trybe usamos Elixir contruindo a plataforma de estudo dos nossos estudantes.
+
+______
 
 ### Empresa de exemplo (Cidade/UF)
 ![Super exemplo](https://raw.githubusercontent.com/elixirbrasil/empresas/master/data/empresa-exemplo-logo.jpg)
