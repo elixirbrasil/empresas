@@ -8,6 +8,7 @@ Lista de empresas usando Elixir no Brasil, para adicionar a sua basta enviar um 
 * [Globosat (Rio de Janeiro/RJ)](http://canaisglobosat.globo.com/)
 * [Podium (São Paulo/SP)](https://github.com/elixirbrasil/empresas#podium)
 * [Trybe (Belo Horizonte/MG e São Paulo/SP)](https://www.betrybe.com/)
+* [Idopter Labs (Belém/PA e EUA)](https://www.idopterlabs.com.br/)
 * [Empresa de exemplo (Cidade/UF)](https://github.com/elixirbrasil/empresas#empresa-de-exemplo)
 
 _______
@@ -80,10 +81,23 @@ Para garantir esse sucesso, investimos em nossos estudantes com as melhores prá
 
 Na Trybe usamos Elixir contruindo a plataforma de estudo dos nossos estudantes.
 
+---
+
+### Idopter Labs (Belém/PA e EUA) [![LinkedIn](data/linkedin.png)](https://www.linkedin.com/company/idopterlabs)
+
+![Idopter Labs](data/idopterlabs.png)
+
+**[Idopter Labs](https://www.idopterlabs.com.br/)**
+
+A Idopter Labs é uma empresa de consultoria em desenvolvimento de software com o objetivo de transformar idéias em negócios digitais rentáveis. Prezamos por transparência, objetividade e agilidade. Estamos no mercado desde 2016 e, desde então, ajudamos diversos clientes em suas iniciativas nas mais diferentes indústrias.
+
+Adotamos Elixir em nossa stack por sua performance, clareza e pela excelente comunidade que existe ao seu redor.
+
 ______
 
 ### Empresa de exemplo (Cidade/UF)
 ![Super exemplo](https://raw.githubusercontent.com/elixirbrasil/empresas/master/data/empresa-exemplo-logo.jpg)
+
 
 **[Nome da Empresa](http://google.com/)**
 
